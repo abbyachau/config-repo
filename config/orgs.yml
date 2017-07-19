@@ -1,6 +1,8 @@
 orgs:
 - dodo
 - hummingbird
+- hawk
+- vulture
 enable-delete-orgs: true
 protected_orgs:
 - system
