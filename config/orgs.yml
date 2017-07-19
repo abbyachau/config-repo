@@ -1,0 +1,6 @@
+orgs:
+- dodo
+- hummingbird
+enable-delete-orgs: true
+protected_orgs:
+- system
