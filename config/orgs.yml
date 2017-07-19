@@ -3,6 +3,7 @@ orgs:
 - hummingbird
 - hawk
 - vulture
+- robin
 enable-delete-orgs: true
 protected_orgs:
 - system
